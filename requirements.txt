@@ -4,4 +4,6 @@ scikit-learn
 lightgbm
 torch
 joblib
+matplotlib
+seaborn
 openpyxl
